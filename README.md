@@ -2,8 +2,28 @@
 
 A new Flutter project.
 
-## Getting Started
+## Getting started
 
+## Captures d'ecran
+
+### 1. Page de connexion
+![Page de connexion](screenshots/login.png)
+
+### 2. Page d'acceuil
+![Page acceuil](screenshots/acceuil.png)
+
+### 3. Page CV
+![Page cv](screenshots/cv.png)
+![Page cv](screenshots/cvsuite.png)
+
+### 4. Page famille
+![Page famille](screenshots/famille.png)
+
+### 5. Page de contact
+![Page contact](screenshots/contact.png)
+
+### 6. Capture supplémentaire
+![Page cv](screenshots/bonus.png)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
