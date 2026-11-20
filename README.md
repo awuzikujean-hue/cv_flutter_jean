@@ -17,7 +17,7 @@ A new Flutter project.
 ![Page cv](screenshots/cvsuite.png)
 
 ### 4. Page famille
-![Page famille](screenshots/famille.png)
+![Page famille](screenshots/famille.jpg)
 
 ### 5. Page de contact
 ![Page contact](screenshots/contact.png)
