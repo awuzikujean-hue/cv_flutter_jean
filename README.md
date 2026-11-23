@@ -22,7 +22,11 @@ Depuis le TP2, la connexion et les membres de famille passent par une
 
 ### Vidéo de démonstration
 
-▶️ **[Voir la capture vidéo de démonstration](COLLER_ICI_LE_LIEN_DE_LA_VIDEO)**
+
+
+https://github.com/user-attachments/assets/25f87459-3b80-472a-ad50-669bee97ebe4
+
+
 
 La vidéo montre : connexion refusée (mauvais mot de passe), connexion réussie,
 ajout d'un membre, redémarrage de l'application (les données restent, car elles
