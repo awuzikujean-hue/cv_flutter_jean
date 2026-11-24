@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-## TP2 : Flutter + API REST
-
-### Vidéo de démonstration
-
-**[Voir la capture vidéo de démonstration](COLLER_ICI_LE_LIEN_DE_LA_VIDEO).**
-=======
 # cv_flutter_jean
 
 A new Flutter project.
@@ -15,7 +8,6 @@ A new Flutter project.
 
 ### Vidéo de démonstration
 **[Voir la capture vidéo de démonstration](https://drive.google.com/file/d/1mUJnVj0lChIrr16IF9pQh8R7Q5ydintL/view?usp=sharing).**
->>>>>>> 32ea9df5fdd96d527dd3222b6bb75ac1d62508cc
 
 La vidéo montre : connexion refusée (mauvais mot de passe), connexion réussie,
 ajout d'un membre, redémarrage de l'application (les données restent, car elles
