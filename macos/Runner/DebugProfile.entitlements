@@ -8,7 +8,10 @@
 	<true/>
 	<key>com.apple.security.network.server</key>
 	<true/>
+<<<<<<< HEAD
 	<key>com.apple.security.network.client</key>
 	<true/>
+=======
+>>>>>>> 32ea9df5fdd96d527dd3222b6bb75ac1d62508cc
 </dict>
 </plist>

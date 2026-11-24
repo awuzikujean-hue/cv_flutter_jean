@@ -1,5 +1,9 @@
 name: cv_flutter_jean
+<<<<<<< HEAD
 description: "CV et album de famille de Jean Awuziku (application Flutter)."
+=======
+description: "A new Flutter project."
+>>>>>>> 32ea9df5fdd96d527dd3222b6bb75ac1d62508cc
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -34,6 +38,7 @@ dependencies:
 
 
   url_launcher: ^6.3.1
+<<<<<<< HEAD
   http: ^1.2.2
   http_parser: ^4.0.2
   file_picker: ^10.1.0
@@ -41,6 +46,8 @@ dependencies:
   # Export / impression du CV en PDF
   pdf: ^3.11.0
   printing: ^5.13.0
+=======
+>>>>>>> 32ea9df5fdd96d527dd3222b6bb75ac1d62508cc
   
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -70,8 +77,12 @@ flutter:
 
 
   assets:
+<<<<<<< HEAD
     - assets/images/profile/
     - assets/images/family/
+=======
+    - assets/images/
+>>>>>>> 32ea9df5fdd96d527dd3222b6bb75ac1d62508cc
 
   # To add assets to your application, add an assets section, like this:
   # assets:

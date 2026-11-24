@@ -1,7 +1,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<<<<<<< HEAD
     <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:usesCleartextTraffic="true"
+=======
+    <application
+>>>>>>> 32ea9df5fdd96d527dd3222b6bb75ac1d62508cc
         android:label="cv_flutter_jean"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
